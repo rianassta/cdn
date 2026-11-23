@@ -5,7 +5,7 @@ export default {
     // ==========================================
     // 🔑 PASSWORD RAHASIA KHUSUS HAPUS VIDEO
     // ==========================================
-    const ADMIN_SECRET_KEY = "rahasia123"; 
+    const ADMIN_SECRET_KEY = "KiyikJutawan27"; 
 
     // ==========================================
     // 🛡️ PENGATURAN DAFTAR DOMAIN JEMBATAN (BISA BANYAK)
